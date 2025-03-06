@@ -39,3 +39,10 @@ Use this command and check in the jupyter notebook
 
 ## Video of our model working
 <video src="./assets/Detection_Comparison - Made with Clipchamp.mp4" alt="Video">
+
+https://github.com/user-attachments/assets/2b4078de-91c5-430a-9eff-5f115c63231b
+
+
+
+https://github.com/user-attachments/assets/1503bcac-1d93-46ac-ac03-99684e928b9d
+
