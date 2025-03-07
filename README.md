@@ -38,4 +38,4 @@ Use this command and check in the jupyter notebook
 
 
 ## Video of our model working
-<video src="./assets/Detection_Comparison - Made with Clipchamp.mp4" alt="Video">
+![](./assets/Detection_Comparison.gif)
