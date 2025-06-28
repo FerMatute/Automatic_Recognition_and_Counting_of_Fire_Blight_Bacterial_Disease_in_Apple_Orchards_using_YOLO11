@@ -1,4 +1,4 @@
-# Fireblight Detection Using Yolov11
+# Automatic Recognition and Counting of Fire Blight Bacterial Disease in Apple Orchards using YOLO11
 Authors:
 
 Fernando Matute and Noel Madrid
